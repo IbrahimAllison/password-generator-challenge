@@ -23,7 +23,10 @@ c. JavaScript codes retrieved from: https://github.com/njthanhtrang/3.-JavaScrip
 MIT License was used for creating this repository.
 
 **Link to the Deployed Application/Website:**
-Here is the link to the deployed application;
+Here is the link to the deployed application: https://ibrahimallison.github.io/password-generator-challenge/
 
 **Screenshot of the Deployed Application**
 See the screenshot of the deployed application below:
+![image](https://github.com/IbrahimAllison/password-generator-challenge/assets/116689797/324c9371-b0f9-4637-ab4e-838f922af7ed)
+
+
