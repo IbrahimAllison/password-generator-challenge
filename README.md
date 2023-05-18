@@ -20,8 +20,7 @@ b. Starter code assistance received from the instructor.
 c. JavaScript codes retrieved from: https://github.com/njthanhtrang/3.-JavaScript-Challenge-Password-Generator/blob/master/script.js
 
 **License**
-
-MIT License was used for creating this repository
+MIT License was used for creating this repository.
 
 **Link to the Deployed Application/Website:**
 Here is the link to the deployed application;
