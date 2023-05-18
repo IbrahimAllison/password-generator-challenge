@@ -24,5 +24,7 @@ c. JavaScript codes retrieved from: https://github.com/njthanhtrang/3.-JavaScrip
 MIT License was used for creating this repository
 
 **Link to the Deployed Application/Website:**
+Here is the link to the deployed application;
 
 **Screenshot of the Deployed Application**
+See the screenshot of the deployed application below:
